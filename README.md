@@ -16,4 +16,10 @@ rd.gif
 <h4>/help and /start - getting information about the bot
 
 <h4>/getRandomArticle - get random article from previously added
-
+  
+---
+ <h3>Technologies:
+      <h4>*Golang
+      <h4>*mongoDB
+      <h4>*Docker
+   
