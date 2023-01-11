@@ -24,4 +24,5 @@ rd.gif
       <h4>*Docker
    
 ---
-  <h3>what it was created 
+  <h3>What it was created</h3>
+Often when you are looking for one thing you find a lot of different useful information, but at the moment you are busy with something else and you can’t read every single one, and when you take the time to read you can’t find anything interesting. This is exactly what this bot was created for storing links in order to take a random one in the future.
