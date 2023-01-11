@@ -5,6 +5,7 @@ The bot was created to store the articles you are interested in so that you can 
 ---
 
 #### The bot was created to store links to articles you are interested in so that in the future, when you allocate free time, you can choose one of them by randomly receiving one of them
+![image](https://github.com/virus242/telegram-bot-for-storing-articles/blob/main/rd.gif)
 
 ---
 <h2 align="center">How to use?</h2>
