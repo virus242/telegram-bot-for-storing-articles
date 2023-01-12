@@ -12,7 +12,7 @@ https://t.me/WhatMeReadbot</h4>
 ---
 <h2 align="center">How to use?</h2>
 <h4>To use you need to change your bot's token to your own in the Dockerfile CMD command
-rd.gif
+
 ---
 # Basic commands:
 <h4>/help and /start - getting information about the bot
